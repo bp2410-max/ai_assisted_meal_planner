@@ -3,6 +3,7 @@
 An AI-assisted meal planning and pantry optimization application built with Python and Streamlit.
 
 The platform combines pantry-aware recommendation systems, dynamic AI-generated recipes, workflow orchestration, analytics, reporting, and AI-powered meal adjustment workflows to reduce planning friction, improve grocery efficiency, and streamline weekly meal operations.
+Live Demo: https://aiassistedmealplanner-bjcbmnhpw5zaxa7xfnjasd.streamlit.app/
 
 ---
 
