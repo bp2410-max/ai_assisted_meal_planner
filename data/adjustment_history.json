@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-05-22T00:25:17",
+    "request": "I have 15 mins to cook lunch today",
+    "applied_changes": [
+      {
+        "action": "replace",
+        "iso": "2026-05-21",
+        "meal_type": "lunch",
+        "current_recipe_id": "dal-tadka",
+        "current_name": "Dal Tadka + Rice",
+        "reason": "Original lunch dal-tadka takes 30 mins; chickpea-salad-wrap is a 10-min lunch recipe suitable for quick cooking and fits dietary exclusions.",
+        "recipe_id": "chickpea-salad-wrap",
+        "proposed_name": "Smashed Chickpea Salad Wrap (cold)"
+      }
+    ],
+    "status": "applied"
+  }
+]

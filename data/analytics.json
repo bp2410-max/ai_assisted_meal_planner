@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-05-22T00:48:06",
+    "type": "plan_generated",
+    "payload": {
+      "pantry_utilization": 0.0,
+      "grocery_items_avoided": 0,
+      "cuisine_frequency": {
+        "indian": 17,
+        "western": 10
+      },
+      "recipe_frequency": {
+        "Masala Oats with Veggies": 1,
+        "Pan-fried Paneer Tikka Bites": 4,
+        "Dal Tadka + Rice": 2,
+        "Scrambled Eggs + Avocado Toast": 1,
+        "Masala Makhana (Fox Nuts) \u2014 warm": 3,
+        "Shrimp Fried Rice": 2,
+        "Besan Chilla (Savory Chickpea Pancake)": 1,
+        "Grilled Chicken + Rice + Veggies": 2,
+        "Paneer Bhurji on Toast": 1,
+        "Rajma (Red Kidney Bean Curry) + Rice": 2,
+        "Veggie Omelette + Toast": 1,
+        "Chana Masala + Roti": 2,
+        "Paneer Paratha (pre-prepped, reheat)": 1,
+        "Hearty Lentil Soup + Bread": 2,
+        "Spinach-Paneer Egg Muffins (batch, microwave)": 1,
+        "Chicken Veggie Stir Fry": 1
+      },
+      "protein_adherent_days": 1,
+      "protein_days": 7,
+      "ai_generated_recipes_used": 0,
+      "eating_out_meals": 1,
+      "meal_prep_sessions": 7
+    }
+  },
+  {
+    "timestamp": "2026-05-22T00:52:49",
+    "type": "plan_generated",
+    "payload": {
+      "pantry_utilization": 0.0,
+      "grocery_items_avoided": 0,
+      "cuisine_frequency": {
+        "indian": 17,
+        "western": 10
+      },
+      "recipe_frequency": {
+        "Masala Oats with Veggies": 1,
+        "Pan-fried Paneer Tikka Bites": 4,
+        "Dal Tadka + Rice": 2,
+        "Scrambled Eggs + Avocado Toast": 1,
+        "Masala Makhana (Fox Nuts) \u2014 warm": 3,
+        "Shrimp Fried Rice": 2,
+        "Besan Chilla (Savory Chickpea Pancake)": 1,
+        "Grilled Chicken + Rice + Veggies": 2,
+        "Paneer Bhurji on Toast": 1,
+        "Rajma (Red Kidney Bean Curry) + Rice": 2,
+        "Veggie Omelette + Toast": 1,
+        "Chana Masala + Roti": 2,
+        "Paneer Paratha (pre-prepped, reheat)": 1,
+        "Hearty Lentil Soup + Bread": 2,
+        "Spinach-Paneer Egg Muffins (batch, microwave)": 1,
+        "Chicken Veggie Stir Fry": 1
+      },
+      "protein_adherent_days": 1,
+      "protein_days": 7,
+      "ai_generated_recipes_used": 0,
+      "eating_out_meals": 1,
+      "meal_prep_sessions": 7
+    }
+  }
+]

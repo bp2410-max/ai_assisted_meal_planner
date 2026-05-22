@@ -1,0 +1,135 @@
+{
+  "profile": {
+    "kcal": 1600,
+    "protein": 110,
+    "carbs": 160,
+    "fat": 55,
+    "exclusions": [
+      "beef",
+      "fish",
+      "lamb",
+      "pork"
+    ],
+    "chaiDrinkId": "masala-chai",
+    "chaiCount": 2,
+    "lockedBreakfastIds": [],
+    "lockedSnackIds": [
+      "paneer-tikka-bites",
+      "masala-makhana"
+    ],
+    "prefersWarm": true,
+    "slotTimes": {
+      "chai1": "08:00",
+      "breakfast": "09:00",
+      "lunch": "13:00",
+      "chai2": "16:00",
+      "snack": "16:30",
+      "dinner": "19:30"
+    }
+  },
+  "pantry": [],
+  "currentWeek": {
+    "startDate": "2026-05-16",
+    "plan": {
+      "2026-05-16": {
+        "eatingOut": false,
+        "skippedMeals": {
+          "dinner": true
+        },
+        "breakfast": "masala-oats",
+        "snack": "paneer-tikka-bites",
+        "lunch": {
+          "recipeId": "dal-tadka",
+          "source": "cook-today"
+        },
+        "dinner": null
+      },
+      "2026-05-17": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "eggs-avocado-toast",
+        "snack": "masala-makhana",
+        "lunch": {
+          "recipeId": "dal-tadka",
+          "source": "leftover"
+        },
+        "dinner": {
+          "recipeId": "shrimp-fried-rice",
+          "source": "cook-today"
+        }
+      },
+      "2026-05-18": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "besan-chilla",
+        "snack": "paneer-tikka-bites",
+        "lunch": {
+          "recipeId": "chicken-rice-bowl",
+          "source": "cook-today"
+        },
+        "dinner": {
+          "recipeId": "shrimp-fried-rice",
+          "source": "leftover"
+        }
+      },
+      "2026-05-19": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "paneer-bhurji-toast",
+        "snack": "masala-makhana",
+        "lunch": {
+          "recipeId": "chicken-rice-bowl",
+          "source": "leftover"
+        },
+        "dinner": {
+          "recipeId": "rajma",
+          "source": "cook-today"
+        }
+      },
+      "2026-05-20": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "veggie-omelette",
+        "snack": "paneer-tikka-bites",
+        "lunch": {
+          "recipeId": "chana-masala",
+          "source": "cook-today"
+        },
+        "dinner": {
+          "recipeId": "rajma",
+          "source": "leftover"
+        }
+      },
+      "2026-05-21": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "paneer-paratha-prepped",
+        "snack": "masala-makhana",
+        "lunch": {
+          "recipeId": "chana-masala",
+          "source": "leftover"
+        },
+        "dinner": {
+          "recipeId": "lentil-soup",
+          "source": "cook-today"
+        }
+      },
+      "2026-05-22": {
+        "eatingOut": false,
+        "skippedMeals": {},
+        "breakfast": "egg-muffins-prepped",
+        "snack": "paneer-tikka-bites",
+        "lunch": {
+          "recipeId": "chicken-stir-fry",
+          "source": "cook-today"
+        },
+        "dinner": {
+          "recipeId": "lentil-soup",
+          "source": "leftover"
+        }
+      }
+    },
+    "groceryChecked": {}
+  },
+  "history": {}
+}

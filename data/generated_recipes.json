@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ai-chickpeas-mixed-vegetables-protein-bowl",
+    "name": "Chickpeas Mixed Vegetables Protein Bowl",
+    "cuisine": "western",
+    "meal_types": [
+      "lunch"
+    ],
+    "macros": {
+      "kcal": 520,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 16
+    },
+    "tags": [
+      "high-protein",
+      "warm",
+      "western"
+    ],
+    "dietary_flags": {
+      "veg": true,
+      "hasEgg": false,
+      "hasDairy": false,
+      "hasBeef": false,
+      "hasFish": false,
+      "hasPork": false,
+      "hasChicken": false,
+      "hasLamb": false,
+      "hasShrimp": false
+    },
+    "warm": true,
+    "prepMin": 10,
+    "cookMin": 20,
+    "servings": 2,
+    "ingredients": [
+      "300g chickpeas",
+      "3 cups mixed vegetables",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp oil or ghee",
+      "Cumin, turmeric, garam masala, chili, salt",
+      "1 cup cooked brown rice or roti"
+    ],
+    "steps": [
+      "Heat oil and saute onion for 3 min.",
+      "Add tomato and spices, then cook 4 min.",
+      "Add chickpeas and mixed vegetables; cook until hot and tender.",
+      "Serve warm with rice or roti."
+    ],
+    "mealTypes": [
+      "lunch"
+    ],
+    "kcal": 520,
+    "protein": 24,
+    "carbs": 42,
+    "fat": 16,
+    "veg": true,
+    "hasBeef": false,
+    "hasFish": false,
+    "hasPork": false,
+    "hasChicken": false,
+    "hasLamb": false,
+    "hasShrimp": false,
+    "hasEgg": false,
+    "hasDairy": false,
+    "prePrep": false,
+    "generated": true,
+    "source": "ai_generated",
+    "created_at": "2026-05-22T00:07:18"
+  },
+  {
+    "id": "ai-grilled-lemon-herb-chicken",
+    "name": "Grilled Lemon Herb Chicken",
+    "cuisine": "western",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "macros": {
+      "kcal": 450,
+      "protein": 45,
+      "carbs": 10,
+      "fat": 15
+    },
+    "tags": [
+      "high-protein",
+      "gluten-free",
+      "low-carb",
+      "warm"
+    ],
+    "dietary_flags": {
+      "veg": false,
+      "hasEgg": false,
+      "hasDairy": false,
+      "hasBeef": false,
+      "hasFish": false,
+      "hasPork": false,
+      "hasChicken": true,
+      "hasLamb": false,
+      "hasShrimp": false
+    },
+    "warm": true,
+    "prepMin": 15,
+    "cookMin": 20,
+    "servings": 2,
+    "ingredients": [
+      "2 chicken breasts",
+      "1 lemon, juiced and zested",
+      "2 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 tsp dried oregano",
+      "salt and pepper to taste"
+    ],
+    "steps": [
+      "Mix lemon juice, zest, olive oil, garlic, oregano, salt, and pepper in a bowl.",
+      "Marinate chicken breasts in the mixture for at least 15 minutes.",
+      "Preheat grill to medium-high heat.",
+      "Grill chicken for 6-7 minutes on each side until cooked through.",
+      "Let rest for 5 minutes before serving."
+    ],
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "kcal": 450,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 15,
+    "veg": false,
+    "hasBeef": false,
+    "hasFish": false,
+    "hasPork": false,
+    "hasChicken": true,
+    "hasLamb": false,
+    "hasShrimp": false,
+    "hasEgg": false,
+    "hasDairy": false,
+    "prePrep": false,
+    "generated": true,
+    "source": "ai_generated",
+    "created_at": "2026-05-22T00:11:42"
+  }
+]
