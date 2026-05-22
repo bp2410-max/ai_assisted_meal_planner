@@ -228,16 +228,44 @@ Grocery / Metrics Update
 
 # Repository Structure
 
+# Repository Structure
+
 ```text
-meal_planner/
+ai_assisted_meal_planner/
 ├── app.py
-├── streamlit_app.py
+├── requirements.txt
+├── README.md
+├── meal_planner_state.json
+│
 ├── data/
+│   ├── recipes.json
+│   ├── generated_recipes.json
+│   └── analytics.json
+│
 ├── docs/
+│   ├── architecture.md
+│   ├── product-requirements.md
+│   ├── migration-notes.md
+│   └── interview-talking-points.md
+│
 ├── meal_planner/
-├── generated_recipes.json
-├── analytics.json
-└── requirements.txt
+│   ├── __init__.py
+│   ├── planner.py
+│   ├── grocery.py
+│   ├── reports.py
+│   ├── export_utils.py
+│   ├── ai_adjustments.py
+│   ├── recipe_library.py
+│   └── analytics.py
+│
+├── screenshots/
+│   ├── today.png
+│   ├── weekly-plan.png
+│   ├── recipe-library.png
+│   └── reports.png
+│
+└── .streamlit/
+    └── config.toml
 ```
 
 ---
